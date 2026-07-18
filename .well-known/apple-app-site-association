@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "936T5YU225.com.andrewengland.todd",
+        "paths": ["/todd/oauth.html", "/todd/oauth*"]
+      }
+    ]
+  }
+}
